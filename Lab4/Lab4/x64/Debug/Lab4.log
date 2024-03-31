@@ -1,2 +1,9 @@
 ﻿  Lab4_1.cpp
-  Lab4.vcxproj -> C:\Users\User\Desktop\C++\Новая папка\Lab4\Lab4\x64\Debug\Lab4.exe
+  Lab4_2.cpp
+C:\Users\favor\OneDrive\Рабочий стол\C++\Lab4\Lab4\Lab4\Lab4_2.cpp(26,13): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Lab4_3.cpp
+  Создание кода...
+C:\Users\favor\OneDrive\Рабочий стол\C++\Lab4\Lab4\Lab4\Lab4_3.cpp(9,1): warning C4717: RevPrint: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+Lab4_2.obj : error LNK2005: "double A" (?A@@3NA) уже определен в Lab4_1.obj
+Lab4_2.obj : error LNK2005: "double B" (?B@@3NA) уже определен в Lab4_1.obj
+C:\Users\favor\OneDrive\Рабочий стол\C++\Lab4\Lab4\x64\Debug\Lab4.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
