@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\favor\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\C\u002B\u002B\\Lab4\\Lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9830EB1-64D2-403C-A6E1-1E54ADB8E135}|Lab4\\Lab4.vcxproj|C:\\Users\\favor\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\C\u002B\u002B\\Lab4\\Lab4\\Lab4\\Lab4_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9830EB1-64D2-403C-A6E1-1E54ADB8E135}|Lab4\\Lab4.vcxproj|solutionrelative:Lab4\\Lab4_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9830EB1-64D2-403C-A6E1-1E54ADB8E135}|Lab4\\Lab4.vcxproj|C:\\Users\\favor\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\C\u002B\u002B\\Lab4\\Lab4\\Lab4\\Lab4_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9830EB1-64D2-403C-A6E1-1E54ADB8E135}|Lab4\\Lab4.vcxproj|solutionrelative:Lab4\\Lab4_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9830EB1-64D2-403C-A6E1-1E54ADB8E135}|Lab4\\Lab4.vcxproj|C:\\Users\\favor\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\C\u002B\u002B\\Lab4\\Lab4\\Lab4\\Lab4_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9830EB1-64D2-403C-A6E1-1E54ADB8E135}|Lab4\\Lab4.vcxproj|solutionrelative:Lab4\\Lab4_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lab4_3.cpp",
+              "DocumentMoniker": "C:\\Users\\favor\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\C\u002B\u002B\\Lab4\\Lab4\\Lab4\\Lab4_3.cpp",
+              "RelativeDocumentMoniker": "Lab4\\Lab4_3.cpp",
+              "ToolTip": "C:\\Users\\favor\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\C\u002B\u002B\\Lab4\\Lab4\\Lab4\\Lab4_3.cpp",
+              "RelativeToolTip": "Lab4\\Lab4_3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-31T23:28:26.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab4_2.cpp",
+              "DocumentMoniker": "C:\\Users\\favor\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\C\u002B\u002B\\Lab4\\Lab4\\Lab4\\Lab4_2.cpp",
+              "RelativeDocumentMoniker": "Lab4\\Lab4_2.cpp",
+              "ToolTip": "C:\\Users\\favor\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\C\u002B\u002B\\Lab4\\Lab4\\Lab4\\Lab4_2.cpp",
+              "RelativeToolTip": "Lab4\\Lab4_2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-31T20:57:37.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab4_1.cpp",
+              "DocumentMoniker": "C:\\Users\\favor\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\C\u002B\u002B\\Lab4\\Lab4\\Lab4\\Lab4_1.cpp",
+              "RelativeDocumentMoniker": "Lab4\\Lab4_1.cpp",
+              "ToolTip": "C:\\Users\\favor\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\C\u002B\u002B\\Lab4\\Lab4\\Lab4\\Lab4_1.cpp",
+              "RelativeToolTip": "Lab4\\Lab4_1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-31T20:14:12.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
